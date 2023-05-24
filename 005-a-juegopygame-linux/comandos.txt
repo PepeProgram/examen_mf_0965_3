@@ -1,0 +1,4 @@
+1.- Crear el ejecutable con pyinstaller
+    pyinstaller -F juegopygame.py -w
+2.- Copiar el directorio img a la carpeta en donde se encuentre
+    el ejecutable.

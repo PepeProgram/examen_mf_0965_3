@@ -1,0 +1,6 @@
+ 
+Crear distribución utilizando el siguiente comando:
+
+pyinstaller -F juegopygame.py -w
+
+(-F para generar un solo archivo, y -w para que no ejecute la consola por detrás)
